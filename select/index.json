@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Damn it!",
+  "base_artist": "礼賛",
+  "createdAt": "2026-02-14T07:36:27.867093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Damn It, Janet",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/01_Damn_It,_Janet_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Damn It, Janet (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/02_Damn_It,_Janet_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Damn It Feels Good to Be a Gangsta",
+      "artist": "Geto Boys",
+      "has_synced": true,
+      "path": "select/03_Damn_It_Feels_Good_to_Be_a_Gangsta_Geto_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Damn it feels good to be....",
+      "artist": "Geto Boys",
+      "has_synced": false,
+      "path": "select/04_Damn_it_feels_good_to_be...._Geto_Boys.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Damn It Feels Good To Be Me",
+      "artist": "Andy Grammer",
+      "has_synced": true,
+      "path": "select/05_Damn_It_Feels_Good_To_Be_Me_Andy_Grammer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Damn It Feels Good to Be a Gangsta",
+      "artist": "Geto Boys",
+      "has_synced": false,
+      "path": "select/06_Damn_It_Feels_Good_to_Be_a_Gangsta_Geto_Boys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh, Right. Damn It.",
+      "artist": "Sledding With Tigers",
+      "has_synced": true,
+      "path": "select/07_Oh,_Right._Damn_It._Sledding_With_Tigers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Damn It, Janet",
+      "artist": "Cast of Glee",
+      "has_synced": true,
+      "path": "select/08_Damn_It,_Janet_Cast_of_Glee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Damn It Feels Good",
+      "artist": "Living Legends",
+      "has_synced": true,
+      "path": "select/09_Damn_It_Feels_Good_Living_Legends.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Damn It All",
+      "artist": "The Staves",
+      "has_synced": true,
+      "path": "select/10_Damn_It_All_The_Staves.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Damn It Feels Good to Be a Gangsta",
+      "artist": "Geto Boys",
+      "has_synced": true,
+      "path": "select/11_Damn_It_Feels_Good_to_Be_a_Gangsta_Geto_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Damn It Feels Good To Be Me",
+      "artist": "Andy Grammer",
+      "has_synced": true,
+      "path": "select/12_Damn_It_Feels_Good_To_Be_Me_Andy_Grammer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Damn It Feels Good 2 Be a Gangsta",
+      "artist": "Geto Boys",
+      "has_synced": true,
+      "path": "select/13_Damn_It_Feels_Good_2_Be_a_Gangsta_Geto_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Damn It Janet",
+      "artist": "Original Cast Recording",
+      "has_synced": true,
+      "path": "select/14_Damn_It_Janet_Original_Cast_Recording.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Damn it!",
+      "artist": "礼賛",
+      "has_synced": false,
+      "path": "select/pl_01_Damn_it!_礼賛.txt"
+    }
+  ]
+}
